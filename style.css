@@ -8,6 +8,14 @@
     #medium, #large{
         display: none;
     }
+
+    h1{
+        font-size: 7vw;
+    }
+
+    p{
+        font-size: 6.5vw;
+    }
 }
 
 
@@ -21,6 +29,14 @@
     #small, #large{
         display: none;
     }
+
+    h1{
+        font-size: 4.5vw;
+    }
+
+    p{
+        font-size: 3vw;
+    }
 }
 
 
@@ -33,6 +49,14 @@
 
     #medium, #small{
         display: none;
+    }
+
+    h1{
+        font-size: 3vw;
+    }
+
+    p{
+        font-size: 2vw;
     }
 }
     
