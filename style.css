@@ -4,6 +4,10 @@
     body{
         background-color: red;
     }
+
+    #medium, #large{
+        display: none;
+    }
 }
 
 
@@ -13,6 +17,10 @@
         background-color: green;
 
     }
+
+    #small, #large{
+        display: none;
+    }
 }
 
 
@@ -21,6 +29,10 @@
     body{
         background-color: blue;
  
+    }
+
+    #medium, #small{
+        display: none;
     }
 }
     
